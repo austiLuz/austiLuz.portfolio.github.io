@@ -1,1 +1,11 @@
-
+* {
+    background-color: aqua;
+}
+header{
+    font-weight: bold;
+    font-family: helvetica;
+    color: darkblue;
+    text-align: center;
+    margin: 50; 
+    font-size: 70px;
+}
